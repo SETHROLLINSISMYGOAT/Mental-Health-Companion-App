@@ -62,3 +62,18 @@ A powerful **AI-powered mental wellness Android application** designed to help u
 - **User data (mood scores, reflections)** is stored securely in **Firebase Firestore**
 - Password reset functionality is supported for safe recovery
 - Reflection data is analyzed locally unless user agrees to sync with cloud
+
+PROJECT DISPLAY - 
+
+
+![1748475040980](https://github.com/user-attachments/assets/07434638-f38b-484b-9bf3-158cc9cb43a2)
+![1748475040975](https://github.com/user-attachments/assets/547cedef-33ce-4c54-9517-16baac5360a2)
+![1748475040966](https://github.com/user-attachments/assets/269fd873-e605-4abe-8db2-012df091c0e7)
+![1748475040960](https://github.com/user-attachments/assets/d73ef8bf-cbf5-4dd5-9102-f6f5c3958a24)
+
+
+
+
+
+
+- 
