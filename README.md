@@ -70,6 +70,8 @@ PROJECT DISPLAY -
 ![1748475040975](https://github.com/user-attachments/assets/547cedef-33ce-4c54-9517-16baac5360a2)
 ![1748475040966](https://github.com/user-attachments/assets/269fd873-e605-4abe-8db2-012df091c0e7)
 ![1748475040960](https://github.com/user-attachments/assets/d73ef8bf-cbf5-4dd5-9102-f6f5c3958a24)
+![1748475040949](https://github.com/user-attachments/assets/a61b0d14-aefb-4b70-bbc3-7637654384e0)
+
 
 
 
