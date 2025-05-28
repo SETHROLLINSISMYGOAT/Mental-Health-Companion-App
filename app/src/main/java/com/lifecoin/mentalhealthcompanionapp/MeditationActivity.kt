@@ -41,7 +41,7 @@ class MeditationActivity : AppCompatActivity() {
         aiResponseProgress = findViewById(R.id.aiResponseProgress)
 
         timerBar.max = meditationDuration
-        mediaPlayer = MediaPlayer.create(this, R.raw.calm_music)
+
 
         btnStart.setOnClickListener {
             btnStart.isEnabled = false
