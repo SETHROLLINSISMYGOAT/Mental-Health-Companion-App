@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mood_history_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#121212"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/tv_welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome! Take care of your mental health every day.\nYour feelings matter."
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textAlignment="center"
+        android:lineSpacingExtra="4dp"
+        android:layout_marginBottom="48dp" />
+
+    <View
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:background="#3949AB"
+        android:alpha="0.15"
+        android:layout_gravity="center"
+        android:layout_marginBottom="-60dp"
+        android:radius="30dp"/>
+
+    <Button
+        android:id="@+id/btn_analyze"
+        android:layout_width="250dp"
+        android:layout_height="72dp"
+        android:text="Analyze Mood"
+        android:backgroundTint="#3949AB"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:padding="16dp"
+        android:layout_gravity="center"
+        android:elevation="8dp"
+        android:stateListAnimator="@null"
+        android:background="@drawable/rounded_button" />
+
+</LinearLayout>
+

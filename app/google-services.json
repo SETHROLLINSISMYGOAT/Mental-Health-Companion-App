@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974856056263",
+    "project_id": "urlshortener2-ba962",
+    "storage_bucket": "urlshortener2-ba962.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974856056263:android:083966f3d4f835d7633de2",
+        "android_client_info": {
+          "package_name": "com.lifecoin.mentalhealthcompanionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEvwgktTXbAOQucJRzdGs2tMQE1JYOaRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974856056263:android:a1631bdbcadcfc56633de2",
+        "android_client_info": {
+          "package_name": "com.quickscan.urlshortener"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEvwgktTXbAOQucJRzdGs2tMQE1JYOaRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
